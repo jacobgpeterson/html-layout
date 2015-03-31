@@ -1,0 +1,92 @@
+/*html{
+	height:100%;
+}
+body{
+	height:100%;
+}
+.top{
+	width:100%;
+	height:10%;
+	background:#BFBFBF;
+	padding:1px;
+}
+.box{
+	background:#3399FF;
+	width:8%;
+	height:90%;
+	margin-left: 3px;
+	margin-top: 3px;
+}
+.one{
+	width:95%;
+	height:30%;
+	text-align:justify;
+	font-size:25px;
+	margin-left:2.5%;
+}
+.two{
+	width:100%;
+	height:15%;
+	background:#3399FF;
+}
+.three{
+	width:100%;
+	height:15%;
+	background:#00FFFF;
+}
+.four{
+	width:100%;
+	height:15%;
+	background:#B5FF91;
+}
+.five{
+	width:100%;
+	height:15%;
+	background:#FFFF19;
+}
+*/
+html{
+	height:100%;
+}
+body{
+	height:100%;
+}
+.top{
+	width:1025px;
+	height:125px;
+	background:#BFBFBF;
+	padding:1px;
+}
+.box{
+	background:#3399FF;
+	width:100px;
+	height:100px;
+	margin-left: 11px;
+	margin-top: 11px;
+}
+.one{
+	width:1025px;
+	height:300px;
+	text-align:justify;
+	font-size:25px;
+}
+.two{
+	width:1025px;
+	height:150px;
+	background:#3399FF;
+}
+.three{
+	width:1025px;
+	height:150px;
+	background:#00FFFF;
+}
+.four{
+	width:1025px;
+	height:150px;
+	background:#B5FF91;
+}
+.five{
+	width:1025px;
+	height:150px;
+	background:#FFFF19;
+}
