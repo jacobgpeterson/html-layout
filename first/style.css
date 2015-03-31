@@ -1,0 +1,40 @@
+/*sides 160px bottom 80px top 170px*/
+html {
+	height:1025px;
+	width:1040px;
+}
+body{
+	height:1025px;
+}
+header{
+	position:top;
+	background:#4D4D4E;
+	width:1020px;
+	height:170px;
+}
+.right{
+	float:left;
+	width:160px;
+	height:1025px;
+	background:#EAEAEA;
+	margin:auto;
+}
+.left{
+	float:left;
+	width:160px;
+	height:1025px;
+	background:#EAEAEA;
+	margin:auto;
+}
+.middle{
+	float:left;
+	position:top;
+	width:700px;
+	height:775px;
+	background:white;
+}
+footer{
+	margin-top:945px;
+	background:#2F2F2F;
+	height:80px;
+}
